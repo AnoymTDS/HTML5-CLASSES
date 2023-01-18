@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Owner of christland Int. college</title>
+</head>
+<body>
+<h1>Christland Int. College</h1>
+<p><b>20</b> numbers of student</p>
+<p>5 males and 15 females</p>
+<p><b>Males average score</b></p>
+ <ol>
+   <li>Math: 70%</li>
+   <li>chemistry: 75%</li>
+   <li>Physics: 86%</li>
+ </ol>
+ 
+<p><b>Female average score</b><p>
+  <ul>
+     <li>Math: 70%</li>
+     <li>Chemistry: 72%</li>
+     <li>physics: 90%</li>
+  </ul>
+</body>
+</html>
