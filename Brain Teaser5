@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<style>
+.button {
+   background-color: #0D3EEE; 
+   border: none;
+   padding: 17px 35px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   margin: 4px 2px;
+   cursor: pointer;
+}
+
+.button1 {backgroung-color: #0D3EEE;}
+.button2 {background-color: #D7DBDD;} 
+.button3 {background-color: #522209;}
+</style>
+</head>
+
+<body>
+
+<h1> Responsive HTML Email Template</h1>
+
+<button class="button button1">Blue</button>
+<button class="button button2">Gray</button>
+<button class="button button3">Brown</button>
+
+</body>
+</html>
