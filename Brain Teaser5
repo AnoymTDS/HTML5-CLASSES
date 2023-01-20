@@ -23,9 +23,9 @@
 
 <h1> Responsive HTML Email Template</h1>
 
-<button class="button button1">Blue</button>
-<button class="button button2">Gray</button>
-<button class="button button3">Brown</button>
+<button class="button button1">Send Email/button>
+<button class="button button2">Copy Email</button>
+<button class="button button3">Archive Email</button>
 
 </body>
 </html>
