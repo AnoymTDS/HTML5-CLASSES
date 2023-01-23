@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Mr Joe Real Estate Agent</title>
+<h3>Location:<b>lekki</b> </h3>
+<h4>Avaiaible Buildings:120</h4>
+<h5>Available for sale:20</h5> 
+<style>
+body {background-color: white;}
+h1   {color: Pink;}
+
+p    {color: brown;}
+</style>
+</head>
+<body>
+
+<h1>Kamil's Construction</h1>
+<p>Nike Art Gallery: 2 plot/15mill </p>
+<p>Ikota Estate: 4 plot/15.3mill</p>
+<p>Bay Lounge: 3 plot/15.1mill</p>
+<p>Nike Art Gallery: 5 plot/15.5mill</p>
+<p>Bay Lounge: 4 plot/15.3mill</p>
+
+<h1>Biggs Construction</h1>
+<p>Elegushi West Area: 7 plot/15.9mill</p>
+<p>Lekki Phase 1: 4 plot/15mill</p>
+<p>Bay Area: 6 plot/15mill</p>
+<p>Ikota View Estate: 3 plot/15.9mill</p>
+<p> V.G.C: 5 plot/15.2mill</p>
+
+<h4> Other not that suitable/And a bit far from lekki</h4>
+<p>Pat Construction: Lekki ahaja||3 plot/15mill</p>
+<p>Pat Construction: Eleganza||4 plot/15.3mill</p>
+<p.Pat Construction: Ibeju||5 plot/15mil</p>
+<p>Tomi Construction: Eleganza||4 plot/15mill</p>
+<p>Tomi Construction: Ibeju||6 plot/15.5mill/slightly negotiable</p>
+
+</body>
+</html>
