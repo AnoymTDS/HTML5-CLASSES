@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+}
+h2 {
+  color: cream;
+  font-family: courier;
+  font-size: 200%;
+}
+h3 {
+  color: orange;
+  font-family: Arial;
+  font-size: 240%;
+}
+h4 {
+  color: green;
+  font-family: Bookman Old Style;
+  font-size: 320%;
+}
+p {
+  color: purple;
+  font-family: Candara Light;
+  font-size: 190%;
+}
+</style>
+</head>
+<body>
+
+<h1>Boys</h1>
+<h2>Girls</h2>
+<h3>Boys:Math|English|Physics</h3>
+<h4>Girls:Health Science|Mathematics</h4>
+<p>Difference Attracts Each Other</p>
+
+</body>
+</html>
